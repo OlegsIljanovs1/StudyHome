@@ -2,7 +2,7 @@ package lesson1;
 
 public class AK47 extends Weapon {
     @Override
-    public void shoot() {
+    public void shoot1() {
 
     }
 }
